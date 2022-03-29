@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 30350d84e7204cf4e8863d2e15b47aaf
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1062896774639429932
+    second: Display|Antenna|Take 001|BaseLayer
+  - first:
+      74: -5709186922153469106
+    second: Display|AV001|Take 001|BaseLayer
+  - first:
+      74: 3920285274230462602
+    second: Display|AV002|Take 001|BaseLayer
+  - first:
+      74: -3554806402671566751
+    second: Display|AV|Take 001|BaseLayer
+  - first:
+      74: -5628984502647824814
+    second: Display|Body|Take 001|BaseLayer
+  - first:
+      74: 6273304362730880526
+    second: Display|Display|Take 001|BaseLayer
+  - first:
+      74: -4173051166253166157
+    second: Display|HDMIPORT001|Take 001|BaseLayer
+  - first:
+      74: 47541211538659269
+    second: Display|HDMIPORT002|Take 001|BaseLayer
+  - first:
+      74: 8459606832418702949
+    second: Display|Ports|Take 001|BaseLayer
+  - first:
+      74: -443757413096025760
+    second: Display|Service|Take 001|BaseLayer
+  - first:
+      74: -1422156738434965618
+    second: Display|TV_Body|Take 001|BaseLayer
+  - first:
+      74: -7427966925179254943
+    second: Body|Antenna|Take 001|BaseLayer
+  - first:
+      74: -5438122677183494566
+    second: Body|AV001|Take 001|BaseLayer
+  - first:
+      74: 1117382825495662511
+    second: Body|AV002|Take 001|BaseLayer
+  - first:
+      74: 5429750438137145053
+    second: Body|AV|Take 001|BaseLayer
+  - first:
+      74: 1477795084196408254
+    second: Body|Body|Take 001|BaseLayer
+  - first:
+      74: -1321075118085343443
+    second: Body|Display|Take 001|BaseLayer
+  - first:
+      74: 2589909830464995449
+    second: Body|HDMIPORT001|Take 001|BaseLayer
+  - first:
+      74: -5578052585962778617
+    second: Body|HDMIPORT002|Take 001|BaseLayer
+  - first:
+      74: 642867276931882952
+    second: Body|Ports|Take 001|BaseLayer
+  - first:
+      74: 5232080661751169127
+    second: Body|Service|Take 001|BaseLayer
+  - first:
+      74: -247467460894376793
+    second: Body|TV_Body|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
